@@ -1,0 +1,31 @@
+PODS:
+  - MGZBase (0.1.0):
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+  - MJExtension (3.1.0)
+  - MJRefresh (3.2.0)
+  - ReactiveObjC (3.1.1)
+
+DEPENDENCIES:
+  - MGZBase (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+
+EXTERNAL SOURCES:
+  MGZBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGZBase: 756aeab66495cc794fd805b44c618aef035cf7bf
+  MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+
+PODFILE CHECKSUM: 04dcbdcabced60e906fe2093a83f194eab144976
+
+COCOAPODS: 1.7.4

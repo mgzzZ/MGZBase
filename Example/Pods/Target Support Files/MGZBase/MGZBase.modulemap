@@ -1,0 +1,6 @@
+framework module MGZBase {
+  umbrella header "MGZBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
