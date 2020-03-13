@@ -1,19 +1,19 @@
 {
   "name": "MGZBase",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A short description of MGZBase.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/mgzzz/MGZBase",
+  "homepage": "https://github.com/mgzzZ/MGZBase",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "mgzzz": "zhangguoming@triumen.com"
+    "mgzzz": "ZGM_iOS@163.com"
   },
   "source": {
-    "git": "https://github.com/mgzzz/MGZBase.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/mgzzZ/MGZBase.git",
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"
@@ -27,6 +27,9 @@
 
     ],
     "MJExtension": [
+
+    ],
+    "IQKeyboardManager": [
 
     ]
   }

@@ -1,5 +1,7 @@
 PODS:
-  - MGZBase (0.1.0):
+  - IQKeyboardManager (6.5.4)
+  - MGZBase (0.2.0):
+    - IQKeyboardManager
     - MJExtension
     - MJRefresh
     - ReactiveObjC
@@ -11,21 +13,24 @@ DEPENDENCIES:
   - MGZBase (from `../`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - MJExtension
     - MJRefresh
     - ReactiveObjC
+  trunk:
+    - IQKeyboardManager
 
 EXTERNAL SOURCES:
   MGZBase:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MGZBase: 756aeab66495cc794fd805b44c618aef035cf7bf
+  IQKeyboardManager: 72b359cd7e777e3a984cedbe05f8da45320cbb63
+  MGZBase: b83d5b5f599502848adde8a7db0d8a2d25a954ce
   MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
   MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
 
 PODFILE CHECKSUM: 04dcbdcabced60e906fe2093a83f194eab144976
 
-COCOAPODS: 1.7.4
+COCOAPODS: 1.8.4

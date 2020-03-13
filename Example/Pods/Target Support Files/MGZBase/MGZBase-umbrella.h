@@ -10,13 +10,12 @@
 #endif
 #endif
 
-#import "BaseModel.h"
-#import "BaseCollectionViewController.h"
-#import "BaseTableViewController.h"
-#import "BaseViewController.h"
-#import "BaseView.h"
-#import "BaseListViewModel.h"
-#import "BaseViewModel.h"
+#import "MGZBaseListViewController.h"
+#import "MGZBaseListViewModel.h"
+#import "MGZBaseNavgationController.h"
+#import "MGZBaseViewController.h"
+#import "MGZBaseViewModel.h"
+#import "MGZListConfig.h"
 
 FOUNDATION_EXPORT double MGZBaseVersionNumber;
 FOUNDATION_EXPORT const unsigned char MGZBaseVersionString[];
