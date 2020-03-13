@@ -1,11 +1,11 @@
 PODS:
+  - DZNEmptyDataSet (1.8.1)
   - IQKeyboardManager (6.5.4)
   - MGZBase (0.2.0):
+    - DZNEmptyDataSet
     - IQKeyboardManager
-    - MJExtension
     - MJRefresh
     - ReactiveObjC
-  - MJExtension (3.1.0)
   - MJRefresh (3.2.0)
   - ReactiveObjC (3.1.1)
 
@@ -14,10 +14,10 @@ DEPENDENCIES:
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
-    - MJExtension
     - MJRefresh
     - ReactiveObjC
   trunk:
+    - DZNEmptyDataSet
     - IQKeyboardManager
 
 EXTERNAL SOURCES:
@@ -25,9 +25,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
   IQKeyboardManager: 72b359cd7e777e3a984cedbe05f8da45320cbb63
-  MGZBase: b83d5b5f599502848adde8a7db0d8a2d25a954ce
-  MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
+  MGZBase: a7fbd3a6e1d81105f32f806b362df439078d0943
   MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
 
